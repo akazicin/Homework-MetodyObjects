@@ -11,7 +11,7 @@ public class Main {
         Book nameBook2 = new Book(author2, "Капитанская дочка", 1836);
 
         Author author3 = new Author("Вальтер", "Скотт");
-        Book nameBook3 = new Book(author3, "Айвенго", 1929);
+        Book nameBook3 = new Book(author3, "Айвенго", 1829);
 
 
         System.out.println(nameBook);
