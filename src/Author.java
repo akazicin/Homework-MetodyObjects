@@ -20,6 +20,12 @@ public class Author {
 
     }
 
+    @Override
+
+    public String toString() {
+        return getFirstName() + " " + getSecondName();
+    }
+
 
     @Override
     public boolean equals(Object o) {
